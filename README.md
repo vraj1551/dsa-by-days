@@ -1,69 +1,64 @@
-# 🚀 DSA Mastery in 3.5 Months 🚀
+# DSA 3.5 Month Complete Preparation Plan
 
-Hi there! 👋
+Welcome to my Data Structures & Algorithms (DSA) preparation repository!
 
-This is my personal journey to **master Data Structures & Algorithms (DSA)** in **3.5 months** — just in time for placement season! 🎯
-
-I created this plan after consulting friends at top companies like **Atlassian, Deloitte, and Cognizant**, and designed a schedule that is both **realistic** and **effective**.
-
----
-
-## 📅 What's in this Repository?
-
-Here, you’ll find:
-
-✅ **Concepts & Theory** for each topic I study  
-✅ **Logic and Explanation** behind each problem I solve  
-✅ **Clean and Optimized Code Solutions** (with comments)  
-✅ **Patterns and Techniques** I learn along the way  
-✅ Regular updates as I progress through the plan 🚀
+I have created a structured day-by-day plan to master DSA in **3.5 months** — just before the placement season begins.  
+This repository will document everything I learn and practice along the way.
 
 ---
 
-## 🗺️ Roadmap
+## 📅 Plan Structure
 
-I am following this structured DSA plan:
+👉 The repo is organized week-wise and day-wise:
 
-- Arrays & Strings
-- Linked Lists
-- Binary Trees & Advanced Trees
-- Graphs (BFS, DFS, Topological Sort, Union Find)
-- Recursion & Backtracking
-- Dynamic Programming (1D, 2D, Advanced DP)
-- Greedy Algorithms
-- Heaps & Priority Queues
-- Tries & Segment Trees
-- Final Revision & Mock Interview Preparation
+- **Week folders** → `Week1`, `Week2`, `Week3`, ...  
+- **Inside each week** → sub-folders named `Day1`, `Day2`, ...  
+
+Each **Day folder** will contain:
+- `notes.md` → overview of the day's tasks, theory and logic learnt.
+- Solutions to all questions solved that day.
 
 ---
 
-## 📚 How to Use this Repo
+## 🏗️ Daily Routine
 
-- Each topic will have its own folder  
-- Each folder will contain:
-  - ✍️ A **README.md** with key concepts & patterns  
-  - 🧠 **Explanation of problems solved**  
-  - 📝 **Code files** with clean and well-commented solutions  
+Each day is divided into 3 parts:
 
-I will also be adding notes & resources that helped me.
-
----
-
-## 💬 How to Connect?
-
-I am sharing this journey on my [Instagram](#) as well!
-
-👉 **Follow and comment** to get the link to this GitHub repo — and join me on this DSA grind.  
-👉 Let’s prepare together and crack placements 🚀.
+| Part | Time | Activity |
+|------|------|----------|
+| Part 1 | 1 hour | Understand the topic (watch videos, read notes, explore theory) |
+| Part 2 | 2 hours | Solve questions based on the topic |
+| Part 3 | 0.5 hour | Revise the topic / Attempt 1 test question with a time limit |
 
 ---
 
-## ⭐️ Support
+## 🎯 Weekly Mock Test
 
-If you find this useful, please consider **starring ⭐ this repo** — it helps me stay motivated to keep updating and improving it.
+- Every **Sunday**, I will take a **mock test** based on the topics covered that week.
+- This will help in revising and testing my understanding under timed conditions.
 
 ---
 
-Stay consistent, stay curious, and let’s master DSA together! 💪
+## ✨ GitHub Repo Usage
 
-#HappyCoding 🚀
+- I will be updating the repository regularly.
+- You will find **theory**, **logic**, **solutions**, and **revision notes** organized clearly in this structure.
+- Everything will be openly available for anyone who wants to follow a similar plan.
+- I will be explain everything on my instagram account also. So don't forget to follow me on Instagram (@birajcodes) - https://www.instagram.com/birajcodes/
+
+---
+
+## 📋 Full Daily Schedule Table
+
+### Week 1
+
+| Day    | Topics | Questions | Revision / Test Question |
+|--------|----------------------------|---------------------------|---------------------------------|
+| Day 1  | Two Pointers, Hashmap Basics         | Two Sum, Conatins Duplicate   | 1 Test Question          |
+| Day 2  | Sliding Window, Prefic Sum         | Maximum Subarray, Best Time to Buy and Sell Stocks   | Revise prefic sum pattern          |
+
+---
+
+👉 If you find this helpful, feel free to star 🌟 this repo!  
+🤓 Follow me on Instagram (@birajcodes) - https://www.instagram.com/birajcodes/
+---
