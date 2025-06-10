@@ -94,16 +94,3 @@ Loop through the array, and if the number is already in the set, we found a dupl
 - Writing brute-force logic first helps you **understand the problem** — optimizing comes next.
 
 ---
-
-## 📝 Notes to Myself
-
-- Always ask: **Can I solve this faster with a map or set?**
-- Think step-by-step, write down edge cases.
-- Don't rush — solving 2 questions with deep understanding is way better than 5 blindly.
-
----
-
-That's all for Day 1! 🎯  
-Tomorrow, I’ll dive deeper into more array tricks like **sliding window** and **prefix sums**.
-
-Let’s gooo 🚀
