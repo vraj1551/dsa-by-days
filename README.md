@@ -56,7 +56,9 @@ Each day is divided into 3 parts:
 |--------|----------------------------|---------------------------|---------------------------------|
 | Day 1  | Two Pointers, Hashmap Basics         | Two Sum, Conatins Duplicate   | 1 Test Question          |
 | Day 2  | Sliding Window, Prefic Sum         | Maximum Subarray, Best Time to Buy and Sell Stocks   | Revise prefic sum pattern          |
-
+| Day 3  | Sliding Window Practice | Product of array except self, Subarray sum equals K | Test Question - Sliding Window |
+| Day 4  | Prefix Sum, Hashmap  | Longest subarray with sum K, maximum size subarray | Revise Hashmap Topic and tricks
+| Day 5  | Consolidation  | Clear the backlog if any | if time left, Solve 2 questions from the topics covered till now
 ---
 
 👉 If you find this helpful, feel free to star 🌟 this repo!  
