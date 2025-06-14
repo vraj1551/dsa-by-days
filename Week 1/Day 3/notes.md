@@ -73,14 +73,3 @@ If `currentSum - k = some earlier prefixSum`,
 it means the subarray between those two points sums to k.
 
 👉 Use a **HashMap to store prefixSum frequencies**.
-
-```python
-sum_count = {0: 1}  # base case
-count = 0
-current_sum = 0
-
-for num in nums:
-    current_sum += num
-    if current_sum - k in sum_count:
-        count += sum_count[current_sum - k]
-    sum_count[current_sum] = sum_count.get(current_sum, 0) + 1
