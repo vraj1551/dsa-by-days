@@ -41,9 +41,6 @@ Also learned:
 
 **Problem**: For every index, return the product of all other elements (without using division).
 
-**Brute-force logic**:  
-For each index, multiply all other elements → O(n²), slow.
-
 **Optimized logic (Two Pass Approach)**:
 
 We can't use division, so:
