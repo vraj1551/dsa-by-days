@@ -27,7 +27,6 @@ The two problems I worked on today challenged my understanding — especially ar
 By now, sliding window feels familiar. But today I realized:
 
 👉 **Sliding window doesn't always mean a fixed-size window.**  
-👉 Sometimes, you’re "extending" the window until a condition breaks (like sum > k), and then shrinking it.
 
 Also learned:
 - Sometimes **sliding window isn’t the best tool** — we need to think in terms of **prefix sums + HashMap** when we care about sum values over time.
