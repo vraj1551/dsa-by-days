@@ -68,6 +68,8 @@ Try all subarrays and check if their sum = k → O(n²), not ideal.
 - At each step, check:  
   `currentSum - k` → how many times this value has occurred before?
 
-
+Because:  
+If `currentSum - k = some earlier prefixSum`,  
+it means the subarray between those two points sums to k.
 
 👉 Use a **HashMap to store prefixSum frequencies**.
