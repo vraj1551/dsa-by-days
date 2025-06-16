@@ -54,11 +54,19 @@ Each day is divided into 3 parts:
 
 | Day    | Topics | Questions | Revision / Test Question |
 |--------|----------------------------|---------------------------|---------------------------------|
-| Day 1  | Two Pointers, Hashmap Basics         | Two Sum, Conatins Duplicate   | 1 Test Question          |
-| Day 2  | Sliding Window, Prefic Sum         | Maximum Subarray, Best Time to Buy and Sell Stocks   | Revise prefic sum pattern          |
-| Day 3  | Sliding Window Practice | Product of array except self, Subarray sum equals K | Test Question - Sliding Window |
-| Day 4  | Prefix Sum, Hashmap  | Longest subarray with sum K, maximum size subarray | Revise Hashmap Topic and tricks
-| Day 5  | Consolidation  | Clear the backlog if any | if time left, Solve 2 questions from the topics covered till now
+| 1  | Two Pointers, Hashmap Basics         | Two Sum, Conatins Duplicate   | 1 Test Question          |
+| 2  | Sliding Window, Prefic Sum         | Maximum Subarray, Best Time to Buy and Sell Stocks   | Revise prefic sum pattern          |
+| 3  | Sliding Window Practice | Product of array except self, Subarray sum equals K | Test Question - Sliding Window |
+| 4  | Prefix Sum, Hashmap  | Longest subarray with sum K, maximum size subarray | Revise Hashmap Topic and tricks |
+| 5  | Consolidation  | Clear the backlog if any | if time left, Solve 2 questions from the topics covered till now |
+| 6  | Final Revision  | 2 Practice Questions | Review all two pointers, sliding window & prefix sum questions |
+| 7  | Mock Test |
+
+### Week 2
+
+| Day    | Topics | Questions | Revision / Test Question |
+|--------|----------------------------|---------------------------|---------------------------------|
+| 1  | Sorting, Two Pointers         | Sort Colors, Merge Intervals   | Revise Sorting patterns          |
 ---
 
 👉 If you find this helpful, feel free to star 🌟 this repo!  
