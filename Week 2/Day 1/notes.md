@@ -118,4 +118,3 @@ Because once the list is sorted by start time, any overlapping intervals will be
 
 - When the problem talks about ranges, overlaps, or intervals — always consider **sorting by start time**.
 - Dutch National Flag is a must-know pattern for 3-value classification problems (especially with 0, 1, 2).
-- Always simulate on a small example on paper first — it helps catch edge cases!
